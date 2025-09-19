@@ -1,0 +1,2 @@
+Images: 20
+Mean Dice: 0.821928
